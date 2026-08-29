@@ -173,4 +173,4 @@ Developed using an **Incremental Agile** approach, in phases:
 
 ## License
 
-Academic project — CSC 470, IUBAT.
+Academic project — Software Engineering
